@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Threat Assessment"
-category: Sec
+category: sec
 date: 2017-07-03 23:54:25
 ---
 
