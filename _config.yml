@@ -23,8 +23,8 @@ sections: [
     ['tut', 'Tutorial'],
     ['ref', 'Reference'],
     ['dev', 'Developers'],
-    ['post', 'Posts']
-    ['sec', 'Securité']
+    ['post', 'Posts'],
+    ['sec', 'Securité'],
     ['pri', 'Vie Privée']
 ]
 
