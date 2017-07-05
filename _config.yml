@@ -12,15 +12,16 @@ google_analytics_id: ''
 #   0 - always hide
 #   1 - always show
 #   2 - show only if posts are present
-navigation: 2
+navigation: 1
 
 # URL to source code, used in _includes/footer.html
 codeurl: 'https://dario.site/'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['sec', 'Securité'],
-    ['pri', 'Vie Privée'],
+    ['rsk', 'Risk'],
+    ['sec', 'Security'],
+    ['pri', 'Privacy'],
     ['doc', 'Documentation'],
     ['tut', 'Tutorial'],
     ['ref', 'Reference'],
