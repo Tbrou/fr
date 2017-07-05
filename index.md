@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sécurite et Vie Privée"
+title: "Comprendre • Agir"
 ---
 
 <p class="lead">Tired of long and unmanageable single-page READMEs deployed as your project's documentation? This minimal <a href="http://jekyllrb.com/">Jekyll</a> project template is specifically intended for simple static documentation sites deployable on GitHub Pages.</p>
