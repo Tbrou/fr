@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Risk Assessmenet"
-category: sec
+category: rsk
 date: 2017-07-05 12:14:20
 ---
 
