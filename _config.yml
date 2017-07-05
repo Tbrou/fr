@@ -20,12 +20,12 @@ codeurl: 'https://dario.site/'
 # Default categories (in order) to appear in the navigation
 sections: [
     ['sec', 'Securité'],
-    ['pri', 'Vie Privée']
+    ['pri', 'Vie Privée'],
     ['doc', 'Documentation'],
     ['tut', 'Tutorial'],
     ['ref', 'Reference'],
     ['dev', 'Developers'],
-    ['post', 'Posts'],
+    ['post', 'Posts']
     
 ]
 
