@@ -3,20 +3,10 @@ layout: default
 title: "Comprendre - Agir"
 ---
 
-<p class="lead">Tired of long and unmanageable single-page READMEs deployed as your project's documentation? This minimal <a href="http://jekyllrb.com/">Jekyll</a> project template is specifically intended for simple static documentation sites deployable on GitHub Pages.</p>
+“If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
+-- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
 
-The template follows a very simple convention of defining categories that correspond to sections in the navigation. Here are the default ones (they are listed in the `_config.yml`):
+If you are reading this, chances are, you're concerned with Information Security. Information has become one of the most valuable assets an organization has. In a [Capgemini EMC survay][CAP EMC] of about 1,000 senior decision-makers, 63% consider that the monetization of data could eventually become as valuable to their organizations as their existing products and services. This [article by Harvard Business School][HBS] highlights the data in Caesar’s Entertainment loyalty program, Total Rewards, estimated to be worth over $1 billion (and the hot point of a very heated Caesar’s Palace bankruptcy feud with the company and its creditors).
 
-- `doc` - Documentation
-- `ref` - Reference
-- `tut` - Tutorial
-- `dev` - Developers
-- `post` - Posts
-
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
-
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
-
-Read more [Usage]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/bruth/jekyll-docs-template/)
+[CAP EMC]: https://www.capgemini.com/resource-file-access/resource/pdf/big_fast_data_the_rise_of_insight-driven_business-report.pdf
+[HBS]: https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/
