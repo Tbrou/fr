@@ -3,7 +3,7 @@ layout: default
 title: "Comprendre - Agir"
 ---
 
-p class="lead">“If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
+<p class="lead">“If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
 -- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite></p>
 ## Protect your Assets
 Increasingly our world runs on data; some of it critical, much of it confidential. Information has become one of the most valuable **assets** an organization possesses. This [Harvard Business School article] [HBS] highlights Caesar’s Entertainment loyalty program, _Total Rewards_. The data in _Total Rewards_ was estimated to be worth over $1 billion and at the center of a very heated Caesar’s Palace bankruptcy feud with its creditors. Information in the loyalty program was deemed a more valuable **asset** then physical property, including the Roman-themed resort on the Las Vegas strip.
