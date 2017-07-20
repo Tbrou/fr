@@ -5,31 +5,24 @@ category: rsk
 date: 2017-07-05 12:14:20
 ---
 
-Definition:
+Evaluating **risk** is key if we are to allocate limited resources in protecting **assets**. It is important to understand the difference between **risk**, **threats**, and **vulnerabilities** as they pertain to **assets**.
 
-Asset – People, property, and information.  People may include employees and customers along with other invited persons such as contractors or guests.  Property assets consist of both tangible and intangible items that can be assigned a value.  Intangible assets include reputation and proprietary information.  Information may include databases, software code, critical company records, and many other intangible items.
+####Asset
+An asset is what we’re trying to protect. It can be people, property, and information. People may include employees and customers. Property assets consist of both tangible and intangible items that can be assigned a value. Tangible assets can be equipment. Intangible assets include reputation and proprietary information. Information may include databases, software code, critical company records, and many other intangible items.
 
-An asset is what we’re trying to protect.
 
-Threat – Anything that can exploit a vulnerability, intentionally or accidentally, and obtain, damage, or destroy an asset.
+####Threat
+A **threat** can be anything that can exploit a **vulnerability**, intentionally or accidentally, and obtain, damage, or destroy an **asset**. A **threat** is what we’re trying to protect against.
 
-A threat is what we’re trying to protect against.
+####Vulnerability
+A **vulnerability** can be weaknesses or gaps in a security program that can be exploited by **threats** to gain unauthorized access to an **asset**. A **vulnerability** is a weakness or gap in our protection efforts.
 
-Vulnerability – Weaknesses or gaps in a security program that can be exploited by threats to gain unauthorized access to an asset.
+####Risk
+Risk is the potential for loss, damage or destruction of an **asset** as a result of a **threat** exploiting a **vulnerability**. **Risk** is the intersection of **assets**, **threats**, and **vulnerabilities**.
 
-A vulnerability is a weakness or gap in our protection efforts.
+> ###Asset + Threat + Vulnerability = Risk.
 
-Risk – The potential for loss, damage or destruction of an asset as a result of a threat exploiting a vulnerability.
+Risk is a function of threats exploiting vulnerabilities to obtain, damage or destroy assets. Threats may exist, but if there are no vulnerabilities then there is little/no risk. Similarly, you can have a vulnerability, but if you have no threat, then you have little/no risk.
 
-Risk is the intersection of assets, threats, and vulnerabilities.
-
-Why is it important to understand the difference between these terms? If you don’t understand the difference, you’ll never understand the true risk to assets.  You see, when conducting a risk assessment, the formula used to determine risk is….
-
-A + T + V = R
-
-That is, Asset + Threat + Vulnerability = Risk.
-
-Risk is a function of threats exploiting vulnerabilities to obtain, damage or destroy assets. Thus, threats (actual, conceptual, or inherent) may exist, but if there are no vulnerabilities then there is little/no risk. Similarly, you can have a vulnerability, but if you have no threat, then you have little/no risk.
-
-Accurately assessing threats and identifying vulnerabilities is critical to understanding the risk to assets.  Understanding the difference between threats, vulnerabilities, and risk is the first step.
+Accurately assessing **threats** and identifying **vulnerabilities** is critical to understanding the **risk** to **assets**. It is a **risk assessment**.
 
