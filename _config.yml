@@ -22,8 +22,8 @@ sections: [
     ['rsk', 'Risk'],
     ['sec', 'Security'],
     ['pri', 'Privacy'],
-    ['doc', 'del-Docs'],
     ['sol', 'Solutions'],
+    ['doc', 'del-Docs'],
     ['ref', 'del-Refs'],
     ['dev', 'del-Devs'],
     ['post', 'del-Posts']
