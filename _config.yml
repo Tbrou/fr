@@ -22,11 +22,11 @@ sections: [
     ['rsk', 'Risk'],
     ['sec', 'Security'],
     ['pri', 'Privacy'],
-    ['doc', 'Documentation'],
+    ['doc', 'del-Docs'],
     ['sol', 'Solutions'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    ['ref', 'del-Refs'],
+    ['dev', 'del-Devs'],
+    ['post', 'del-Posts']
     
 ]
 
