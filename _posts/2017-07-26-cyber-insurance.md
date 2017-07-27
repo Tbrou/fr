@@ -10,7 +10,7 @@ With cyber attacks, malware, ransomware making daily headlines, the need for org
 
 **Cyber Insurance**
 
-* Virus
+* Virus, Malware and Ransomware
 * Unauthorized access
 * Security breach
 * Release of data through the carelessness of an employee or vendor
@@ -26,8 +26,8 @@ With cyber attacks, malware, ransomware making daily headlines, the need for org
 * Loss resulting from identity theft
 * Business interruption
 * Data loss/destruction
-* Cyberextortion
+* Cyber extortion
 
-Every organization needs to look into Cyber & Privacy insurance as part of a total technical environment strategy. Finding an insurance broker in your field with experience in cyber & privacy insurance is essential, as they will help determine the policy and level of insurance needed. Only buy from an insurer with a proven track record in this domain.
+Every organization needs to look into Cyber & Privacy insurance as part of a risk management strategy. Finding an insurance broker in your field with experience in cyber & privacy insurance is essential, as they will help determine the policy and level of insurance needed. Only buy from an insurer with a proven track record in this domain.
 
 Buying insurance is not the end of it. An organization needs to take reasonable steps to protect it from risks, as insurance policies require it. These policies are a last resort to protect an organization from the catastrophic consequences resulting from a breach.
