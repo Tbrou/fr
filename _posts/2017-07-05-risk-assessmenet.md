@@ -20,8 +20,17 @@ A **vulnerability** can be a weakness or gap that can be exploited by **threat**
 #### Risk
 Risk is the potential for loss, damage or destruction of an **asset** as a result of a **threat** exploiting a **vulnerability**:
 
-> ### Asset + Threat + Vulnerability = Risk.
+> ### Asset + Threat + Vulnerability = Risk
 
 **Threats** may exist, but if there are no **vulnerabilities** then there is little **risk**. Similarly, you can have a **vulnerability**, but if you have no **threat**, then you have little **risk**.
 
 Accurately assessing **threats** and identifying **vulnerabilities** is critical to understanding the **risk** to **assets**. Often, the number of **assets** potentially at risk outweighs the resources available to manage them. It is therefore extremely important to know where to apply available resources to mitigate **risk** in a cost-effective and efficient manner. **Risk assessment** is the risk management process that assigns relative priorities for mitigation plans and implementation.
+
+#### The Outcome of a Risk assessment
+* Identify and assign value to assets
+* Identify vulnerabilities and associate them with the assets they expose
+* Identify threats relevant to the vulnerabilities and assess them for likelihood and gravity
+* Assess risk and prioritize recommendations for remediation
+
+#### Contact Us
+If you want to hear more about how we can fit a risk assessment into your unique needs to help you minimize risk, get in touch: **<a href="mailto:contact@dario.com">Contact Us</a>**
