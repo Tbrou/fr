@@ -13,9 +13,8 @@ The threat of ransomware is expected to steadily increase in 2017. In their 2017
 
 One reason ransomware remains profitable for cybercriminals is the rise of crypto-currencies. Digital currencies allow cybercriminals to operate without the fear of retribution since payments are not easily tracked by law enforcement agencies. 
 
-To combat the rise in ransomware, multiple layers of security, network, and endpoint technologies are recommended. Organizations must balance how they detect, protect and respond to ransomware attacks. 
-
 ##### Ransomware: Prevent and Mitigate
+To combat the rise in ransomware, multiple layers of security, network, and endpoint technologies are recommended. Organizations must balance how they detect, protect and respond to ransomware attacks.
 
 * Perform strategic assessments of cyber threats and vulnerabilities
 * Rapidly spot and counter threats
