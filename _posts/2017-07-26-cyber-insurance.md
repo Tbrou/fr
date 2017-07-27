@@ -30,4 +30,4 @@ With cyber attacks, malware, ransomware making daily headlines, the need for org
 
 Every organization needs to look into Cyber & Privacy insurance as part of a total technical environment strategy. Finding an insurance broker in your field with experience in cyber & privacy insurance is essential, as they will help determine the policy and level of insurance needed. Only buy from an insurer with a proven track record in this domain.
 
-Buying insurance is not the end of it.  An organization needs to deploy the necessary resources to protect it from these risks, as insurance policies require that reasonable steps be taken to protect itself. These policies are a last resort to protect an organization from the catastrophic consequences resulting from a breach.
+Buying insurance is not the end of it. An organization needs to take reasonable steps to protect it from risks, as insurance policies require it. These policies are a last resort to protect an organization from the catastrophic consequences resulting from a breach.
