@@ -5,7 +5,7 @@ category: sec
 order: 0
 ---
 
-* [Identify Risk](https://dario.site/fr/rsk/risk-assessmenet.html)  
+* [Identify Risk]({{ site.baseurl }}{% post_url 2017-07-05-risk-assessmenet %})  
 	Risk Assessment
 * Define Security & Privacy Policies  
 	Reflect the objectives set by management
@@ -19,4 +19,4 @@ order: 0
 	Firewalls, Intrusion Prevention Systems (IPS).
 * Maintain Comprehensive Logs and Audit Trails  
 	Intrusion Detection Systems (IDS).
-* [Assess Cyber Liability Insurance](https://dario.site/fr/pri/cyber-insurance.html)
+* [Assess Cyber Liability Insurance]({{ site.baseurl }}{% post_url 2017-07-26-cyber-insurance %})
